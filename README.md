@@ -26,5 +26,5 @@
 - Data Structures and Algorithms
 
 ## 🤝 Connect With Me
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/tejashri-bodke-3713b6281
+- Email: bodketejashri@gmail.com
